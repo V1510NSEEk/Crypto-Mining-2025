@@ -1,4 +1,3 @@
-# Crypto-Mining-2025
 
 # 💻 Cryptocurrency Mining Manual (2025 Edition)
 
