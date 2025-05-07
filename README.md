@@ -1,7 +1,7 @@
 
 # 💻 Cryptocurrency Mining Manual (2025 Edition)
 
-> **For Educational and Legal Hobby Use Only**
+> **For Educational and Hobby Use Only**
 
 ---
 
