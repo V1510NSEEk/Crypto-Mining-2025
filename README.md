@@ -1,5 +1,5 @@
 # Crypto-Mining-2025
-Crypto Mining 2025
+
 # 💻 Cryptocurrency Mining Manual (2025 Edition)
 
 > **For Educational and Legal Hobby Use Only**
